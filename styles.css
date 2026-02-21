@@ -130,7 +130,7 @@ hr{
 .container{
     display: flex;
     width: 400px;
-    height: 350px;
+    height: 320px;
 }
 
 .container img{
@@ -150,5 +150,6 @@ hr{
     position: relative;
 
 }
+
 
 
