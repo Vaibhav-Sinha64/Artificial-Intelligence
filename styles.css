@@ -129,7 +129,7 @@ hr{
 
 .container{
     display: flex;
-    width: 380px;
+    width: 30%;
     height: 350px;
 }
 
@@ -148,4 +148,5 @@ hr{
     margin: 20px;
     overflow: hidden;
     position: relative;
+
 }
