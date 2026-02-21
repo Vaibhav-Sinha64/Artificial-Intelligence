@@ -135,7 +135,7 @@ hr{
 
 .container img{
     max-width: 100%;
-    height: 75%;
+    max-height: 75%;
     display: inline-flex;
     border-radius: 15px;
     border: 10px solid transparent;
@@ -150,6 +150,7 @@ hr{
     position: relative;
 
 }
+
 
 
 
