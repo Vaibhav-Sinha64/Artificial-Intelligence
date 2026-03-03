@@ -132,6 +132,7 @@ hr{
     max-width: 380px;
     height: 350px;
     padding: 5px;
+    align-content: center;
 }
 
 .container img{
@@ -149,3 +150,4 @@ hr{
     position: relative;
 
 }
+
