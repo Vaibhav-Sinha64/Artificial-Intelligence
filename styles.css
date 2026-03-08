@@ -78,7 +78,7 @@ hr{
 }
 
 .card li{
-    margin: 25px;
+    margin: 20px;
     padding: 20px;
     border: 5px;
     max-width: 14%;
@@ -90,6 +90,7 @@ hr{
     backdrop-filter: blur(6px);
     -webkit-backdrop-filter: blur(6px);
     text-align: center;
+    flex-wrap: wrap;
 }
 
 .card li a{
@@ -124,14 +125,14 @@ hr{
     border-radius: 25%;
     object-fit: cover;
     align-self: right;
-    margin: 5px;
+    margin: auto;
 }
 
 .container{
     display: flex;
-    position: center;
     width: 380px;
     height: 350px;
+    align-self: center;
 }
 
 .container img{
@@ -144,14 +145,7 @@ hr{
 
 .gap{
     padding: 20px;
-    margin: 20px;
+    margin: auto;
     overflow: hidden;
     position: relative;
-
 }
-
-
-
-
-
-
