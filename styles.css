@@ -128,10 +128,9 @@ hr{
 }
 
 .container{
-    display: flex;
+    display: inline-flex;
     width: 380px;
     height: 350px;
-    align-self: center;
 }
 
 .container img{
@@ -149,5 +148,6 @@ hr{
     position: relative;
 
 }
+
 
 
