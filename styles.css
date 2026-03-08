@@ -129,6 +129,7 @@ hr{
 
 .container{
     display: inline-flex;
+    position: center;
     width: 380px;
     height: 350px;
 }
@@ -148,6 +149,7 @@ hr{
     position: relative;
 
 }
+
 
 
 
